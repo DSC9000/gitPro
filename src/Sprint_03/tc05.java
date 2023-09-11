@@ -1,10 +1,13 @@
 package Sprint_03;
 
-public class tc05 {
+public class TC05 {
 
-    // created test case tc05
+    public static void main(String[] args) {
 
-    // everything looking good
+        System.out.println("this is test case 5 in sprint 3 from cloned project");
 
-    // updates
+
+        System.out.println("Hello friends");
+
+    }
 }
