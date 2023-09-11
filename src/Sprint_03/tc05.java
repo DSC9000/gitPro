@@ -1,6 +1,6 @@
 package Sprint_03;
 
-public class TC05 {
+public class tc05 {
 
     public static void main(String[] args) {
 
