@@ -8,6 +8,7 @@ public class TC05 {
 
 
         System.out.println("Hello friends");
+        System.out.println("new file");
 
     }
 }
